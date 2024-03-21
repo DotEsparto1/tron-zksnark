@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/tron-zksnark](https://github.com/DotEsparto1/tron-zksnark)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|03/19/24 <br/>Report generated|
+|4<br/>Tools used|03/21/24 <br/>Report generated|
 |------|------|
 </div>
 
